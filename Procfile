@@ -1,2 +1,2 @@
-node pokemon-showdown
-node app.js 8000
+web: node pokemon-showdown
+web: node app.js 8000
