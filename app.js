@@ -154,7 +154,7 @@ if (require.main === module) {
 	// postpone launching until app.listen() is called.
 	let port;
 	if (process.argv[2]) port = parseInt(process.argv[2]);
-	Sockets.listen(port);
+	Sockets.listen(process.env.PORT || 8888);
 }
 
 /*********************************************************
