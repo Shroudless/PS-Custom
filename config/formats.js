@@ -45,7 +45,7 @@ exports.Formats = [
 
 {
 		name: "[Gen7]Gen 1 Throwback",
-		desc: ["SUTD FTLF 2018 Format"],
+		desc: ["SUTD FTLT 2018 Format"],
 
 		mod: 'gen1T',
 		ruleset: ['Pokemon', 'Standard', 'Team Preview'],
